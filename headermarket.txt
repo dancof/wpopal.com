@@ -1,0 +1,65 @@
+<div class="row box-top">
+         <div class="box-service-top col-xs-3">
+                <div class="box-content">
+                      <div class="icon">
+                                 <i class="icon-truck">&nbsp;</i>
+                      </div>
+                      <div class="description">
+                                   <span class="large-text">
+                                            free shipping
+                                    </span>
+                                    <span class="small-text">
+                                          on order over $100.00
+                                    </span>
+                        </div>
+                  </div>
+          </div>
+
+         <div class="box-service-top col-xs-3">
+                 <div class="box-content">
+                         <div class="icon">
+                                 <i class="icon-cycle">&nbsp;</i>
+                      </div>
+                      <div class="description">
+                                   <span class="large-text">
+                                           free return
+                                    </span>
+                                    <span class="small-text">
+                                          free 90 days return policy
+                                    </span>
+                        </div>
+                </div>
+          </div>    
+
+         <div class="box-service-top col-xs-3">
+                <div class="box-content">
+                         <div class="icon">
+                                 <i class="icon-tag">&nbsp;</i>
+                      </div>
+                      <div class="description">
+                                   <span class="large-text">
+                                            member discount
+                                    </span>
+                                    <span class="small-text">
+                                          free register
+                                    </span>
+                        </div>
+                </div>
+          </div>
+       
+        <div class="box-service-top col-xs-3">
+                <div class="box-content">
+                         <div class="icon">
+                                 <i class="icon-phone-outline">&nbsp;</i>
+                      </div>
+                      <div class="description">
+                                   <span class="large-text">
+                                            24/7 customer care
+                                    </span>
+                                    <span class="small-text">
+                                          toll-register
+                                    </span>
+                        </div>
+                </div>
+          </div>
+</div>
